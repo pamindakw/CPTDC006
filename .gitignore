@@ -1,0 +1,19 @@
+# python related files
+*.pyc
+*.pyo
+*.egg
+*.egg-info
+__pycache__
+
+# sqlite db
+*.db
+*.sqlite3
+
+# test, build, log
+build
+docs/_build
+dist
+results
+logs
+*.logs
+env1
